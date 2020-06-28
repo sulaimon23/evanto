@@ -77,6 +77,9 @@ footer{
  box-sizing: border-box;
  color: white;
 }
+footer ul{
+ padding-left: 0;
+}
 footer li{
  list-style: none;
 }
